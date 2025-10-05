@@ -4,7 +4,7 @@
 
 <!-- GIF Section -->
 <p align="center">
-  <img src="[Scene.gif](https://raw.githubusercontent.com/WaleedAfridi-1/WaleedAfridi-1/main/Scene.gif
+  <img src="(https://raw.githubusercontent.com/WaleedAfridi-1/WaleedAfridi-1/main/Scene.gif
 )" alt="Coding GIF" width="600"/>
 </p>
 
