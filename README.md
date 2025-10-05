@@ -4,7 +4,7 @@
 
 <!-- GIF Section -->
 <p align="center">
-  <img src="[Scene.gif](https://github.com/WaleedAfridi-1/WaleedAfridi-1/blob/main/Scene.gif)" alt="Coding GIF" width="600"/>
+  <img src="[Scene.gif](WaleedAfridi-1/WaleedAfridi-1/Scene.gif)" alt="Coding GIF" width="600"/>
 </p>
 
 ---
