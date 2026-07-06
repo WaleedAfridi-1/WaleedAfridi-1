@@ -57,26 +57,75 @@ Alongside web development, I am exploring Data Science with Python, working with
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<div align="center">
+
+<!-- PROJECT 1: FOODNODE -->
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
   <tr>
-    <td width="33.3%" valign="top">
-      <h3>🍔 FoodNode</h3>
-      <p>A food video platform built with Next.js and Express.js. Users can watch, save videos, and Food Partners can upload content via OTP system.</p>
-      <a href="https://github.com/WaleedAfridi-1/FoodNode"><b>🔗 GitHub Repo</b></a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3>🤖 Customer Segmentation App</h3>
-      <p>ML-powered web app that clusters customers using K-means algorithm for marketing insights.</p>
-      <a href="https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app"><b>🔗 GitHub Repo</b></a>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3>📞 Smart Call Book App</h3>
-      <p>Contact management system with authentication, animated UI, and call records tracking.</p>
-      <a href="https://github.com/WaleedAfridi-1/Smart-Call-Book-App"><b>🔗 GitHub Repo</b></a>
+    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+      <div align="left">
+        <span style="font-size: 12px; font-weight: 600; color: #58a6ff; text-transform: uppercase; letter-spacing: 1.5px;">Web Application</span>
+        <h3 style="margin-top: 8px; margin-bottom: 12px; font-size: 22px; color: #f0f6fc;">🍔 FoodNode</h3>
+        <p style="color: #8b949e; font-size: 14px; line-height: 1.6; margin-bottom: 16px;">
+          A food video platform built with Next.js and Express.js. Users can watch, save videos, and Food Partners can upload content via OTP system.
+        </p>
+        <div style="margin-bottom: 20px;">
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Next.js</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Express.js</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Prisma</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px;">PostgreSQL</code>
+        </div>
+        <a href="https://github.com/WaleedAfridi-1/FoodNode" style="text-decoration: none; background-color: #21262d; color: #c9d1d9; padding: 8px 16px; border: 1px solid #30363d; border-radius: 6px; font-size: 13px; font-weight: 600;">Explore Repository →</a>
+      </div>
     </td>
   </tr>
 </table>
 
+<!-- PROJECT 2: CUSTOMER SEGMENTATION AI APP -->
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+      <div align="left">
+        <span style="font-size: 12px; font-weight: 600; color: #7f5af0; text-transform: uppercase; letter-spacing: 1.5px;">Machine Learning</span>
+        <h3 style="margin-top: 8px; margin-bottom: 12px; font-size: 22px; color: #f0f6fc;">🤖 Customer Segmentation App</h3>
+        <p style="color: #8b949e; font-size: 14px; line-height: 1.6; margin-bottom: 16px;">
+          ML-powered web app that clusters customers using K-means algorithm for marketing insights.
+        </p>
+        <div style="margin-bottom: 20px;">
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Python</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Scikit-Learn</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Pandas</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px;">NumPy</code>
+        </div>
+        <a href="https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app" style="text-decoration: none; background-color: #21262d; color: #c9d1d9; padding: 8px 16px; border: 1px solid #30363d; border-radius: 6px; font-size: 13px; font-weight: 600;">Explore Repository →</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- PROJECT 3: SMART CALL BOOK APP -->
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
+      <div align="left">
+        <span style="font-size: 12px; font-weight: 600; color: #2deb8a; text-transform: uppercase; letter-spacing: 1.5px;">Full-Stack Application</span>
+        <h3 style="margin-top: 8px; margin-bottom: 12px; font-size: 22px; color: #f0f6fc;">📞 Smart Call Book App</h3>
+        <p style="color: #8b949e; font-size: 14px; line-height: 1.6; margin-bottom: 16px;">
+          Contact management system with authentication, animated UI, and call records tracking.
+        </p>
+        <div style="margin-bottom: 20px;">
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">MongoDB</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">Express.js</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 6px;">React</code>
+          <code style="background: #161b22; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Node.js</code>
+        </div>
+        <a href="https://github.com/WaleedAfridi-1/Smart-Call-Book-App" style="text-decoration: none; background-color: #21262d; color: #c9d1d9; padding: 8px 16px; border: 1px solid #30363d; border-radius: 6px; font-size: 13px; font-weight: 600;">Explore Repository →</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ## 📊 GitHub Stats
