@@ -11,22 +11,24 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAfridi-1&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Langs" align="right" width="350" />
-</div>
+<p align="center">
+I am a Computer Science student and a passionate MERN Stack Developer focused on building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products with clean UI and efficient backend systems.
+</p>
 
-- 🎓 **Computer Science Student**  
-- 💻 **MERN Stack Developer** *(React, Next.js, Node.js, Express, MongoDB, Prisma, PostgreSQL)*  
-- 📊 **Data Science Enthusiast** *(Python, NumPy, Pandas, Matplotlib, Scikit-Learn)*  
-- 🌍 **Based in Karachi, Pakistan**  
-- 🔥 **Currently focused on Web Development projects**  
-
-<br clear="right" />
+<p align="center">
+Alongside web development, I am exploring Data Science with Python, working with data analysis, visualization, and machine learning fundamentals to expand my technical skill set.
+</p>
 
 ---
+
+### ⚡ Quick Highlights
+
+- 🎓 Computer Science Student  
+- 💻 MERN Stack Developer (React, Next.js, Node.js, Express, MongoDB, Prisma, PostgreSQL)  
+- 📊 Data Science Enthusiast (Python, NumPy, Pandas, Matplotlib, Scikit-Learn)  
+- 🌍 Based in Karachi, Pakistan  
 
 ## ⚡ Tech Stack
 
