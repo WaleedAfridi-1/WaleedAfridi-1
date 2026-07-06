@@ -126,6 +126,7 @@ Alongside web development, I am exploring Data Science with Python, working with
 </table>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
