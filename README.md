@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=250&section=header&text=Hi%20👋,%20I'm%20Waleed%20Afridi&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" />
+<h1 align="center">Hi 👋, I'm Waleed Afridi</h1>
 </div>
 
 <div align="center">
