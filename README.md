@@ -1,109 +1,64 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Waleed Afridi</h1>
-</div>
+  <!-- Premium Animated Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Waleed+Afridi;Full-Stack+Developer;Data+Science+Enthusiast;Building+Production-Ready+Apps" alt="Typing SVG" />
 
-<div align="center">
-  <h3>⚡ MERN Stack Developer | Data Science Enthusiast ⚡</h3>
-  <p style="font-size: 14px; max-width: 600px; color: #8b949e; line-height: 1.6;">
-    Passionate about building modern, scalable web applications with clean UI/UX and exploring Data Science using Python.
+  <p align="center" style="font-size: 15px; max-width: 620px; color: #8b949e; line-height: 1.8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+    Crafting high-contrast, dead-minimalist end-to-end web applications with robust database architectures. Bridging modern MERN/Next.js systems with data-driven Python automation.
+  </p>
+
+  <!-- Real-time Profile Stats with Premium Dark Theme & Animations -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WaleedAfridi-1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="Waleed's Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAfridi-1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" height="150" />
   </p>
 </div>
 
 ---
 
-## 🚀 About Me
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 Background</h4>
-      <ul>
-        <li>🎓 Computer Science Student</li>
-        <li>🌍 Based in Karachi, Pakistan</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔥 Current Focus</h4>
-      <ul>
-        <li>💻 MERN Stack Developer (React, Next.js, Node.js, Express, MongoDB, Prisma, PostgreSQL)</li>
-        <li>📊 Data Science Enthusiast (Python, NumPy, Pandas, Matplotlib, Scikit-Learn)</li>
-        <li>🚀 Currently focused on Web Development projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=%23339933" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=%2347A248" />
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC" />
-  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### 📊 Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB" />
-  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=%23013243" />
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=%23150458" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Architectural Focus
 
 <div align="center">
-
-| 🍔 FoodNode |
-| :--- |
-| A food video platform built with Next.js and Express.js. Users can watch, save videos, and Food Partners can upload content via OTP system. |
-| [🔗 GitHub Repo](https://github.com/WaleedAfridi-1/FoodNode) |
-
-<br />
-
-| 🤖 Customer Segmentation App |
-| :--- |
-| ML-powered web app that clusters customers using K-means algorithm for marketing insights. |
-| [🔗 GitHub Repo](https://github.com/WaleedAfridi-1/Customer-Segmentation-Ai-app) |
-
-<br />
-
-| 📞 Smart Call Book App |
-| :--- |
-| Contact management system with authentication, animated UI, and call records tracking. |
-| [🔗 GitHub Repo](https://github.com/WaleedAfridi-1/Smart-Call-Book-App) |
-
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="50%" valign="top" style="border: none; padding: 10px;">
+        <h3 style="color: #ffffff; border-bottom: 1px solid #21262d; padding-bottom: 8px;">💻 Engineering</h3>
+        <p style="color: #8b949e; font-size: 14px;">Building modern, scalable architectures with <strong>Next.js App Router</strong>, secure <strong>JWT/OTP authentication</strong>, and optimized cloud database pooling (PostgreSQL, Prisma, MongoDB).</p>
+      </td>
+      <td width="50%" valign="top" style="border: none; padding: 10px;">
+        <h3 style="color: #ffffff; border-bottom: 1px solid #21262d; padding-bottom: 8px;">📊 Intelligence</h3>
+        <p style="color: #8b949e; font-size: 14px;">Extracting actionable insights using mathematical algorithms, custom <strong>K-means clustering models</strong>, and powerful scientific libraries like Pandas, NumPy, and Scikit-Learn.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Connect With Me
+## ⚡ Tech Stack Spectrum
 
-<p align="center">
-  <a href="mailto:waleedafridi170@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/waleed-afridi-3931a8333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/923367706071">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+### 🌐 Full-Stack Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+
+### 📈 Data Science & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-<p align="center" style="font-style: italic;">
-  I love turning ideas into real-world web applications and learning new technologies every day 🚀
-</p>
+## 🛠️ Featured Showcases
+
+```git
+# Clone any of the production-level platforms below to review clean code architecture.
