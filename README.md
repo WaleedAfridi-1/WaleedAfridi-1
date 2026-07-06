@@ -87,18 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaleedAfridi-1&show_icons=true&theme=tokyonight&description_lines_count=15&hide_border=true" alt="Waleed's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaleedAfridi-1&theme=tokyonight&hide_border=true" alt="Waleed's GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
