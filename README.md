@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ANIMATED FULL NAME TYPING BANNER -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Waleed+Afridi;Full-Stack+Developer;Data+Science+Enthusiast;Building+Production-Ready+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Waleed+Afridi;MERN-Stack+Developer;Data+Science+Enthusiast;" alt="Typing SVG" />
 
   <p align="center" style="font-size: 16px; font-weight: 500; max-width: 650px; color: #a5b4fc; line-height: 1.6; margin-top: 10px;">
     Passionate about building modern, scalable web applications with clean UI/UX and exploring Data Science using Python.
